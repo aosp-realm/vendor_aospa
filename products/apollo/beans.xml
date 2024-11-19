@@ -8,7 +8,7 @@
 
   <project path="device/xiaomi/apollo" name="aosp-realm/device_xiaomi_apollo" remote="github" revision="vauxite" />
   <project path="hardware/xiaomi" name="AOSPA/android_hardware_xiaomi" remote="aospa" revision="vauxite" />
-  <project path="kernel/xiaomi/apollo" name="aosp-realm/android_kernel_xiaomi_apollo" remote="github" revision="vauxite" />
+  <project path="kernel/xiaomi/sm8250" name="AOSPA/android_kernel_xiaomi_sm8250" remote="aospa" revision="vauxite" />
   <project path="vendor/nxp/opensource/halimpl" name="AOSPA/android_vendor_nxp_opensource_halimpl" remote="aospa" revision="vauxite-SN100X-legacy" />
   <project path="vendor/nxp/opensource/hidlimpl" name="AOSPA/android_vendor_nxp_opensource_hidlimpl" remote="aospa" revision="vauxite-SN100X-legacy" />
   <project path="vendor/xiaomi/apollo" name="aosp-realm/vendor_xiaomi_apollo" remote="github" revision="vauxite" clone-depth="1" />
